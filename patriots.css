@@ -28,12 +28,12 @@ margin-right: 2.5%;
 #info{
 border: 1px solid;
 float: right;
-float:inherit;
 width: 800px;
 height: 300px;
 margin-top: 50px;
 margin-left: 2.5%;
 margin-right: 2.5%;
+margin-bottom: inherit;
 }
 
 #superbowl{
